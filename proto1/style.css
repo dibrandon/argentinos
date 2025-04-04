@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    background: linear-gradient(0deg, rgba(113,183,230,1) 15%, rgba(255,255,255,1) 40%, rgba(255,255,255,1) 60%, rgba(113,183,230,1) 85%);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 2rem 1rem;
+    text-align: center;
+
+}
+
+footer{
+    margin-top: 3rem;
+    padding-top: 2rem;
+    font-size: 0.9rem;
+    color: #666;
+}
